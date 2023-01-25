@@ -1,4 +1,10 @@
 Devops
 java
+<<<<<<< HEAD
 ansible
+=======
+kubernetes
+docker
+linux
+>>>>>>> dummy
 
